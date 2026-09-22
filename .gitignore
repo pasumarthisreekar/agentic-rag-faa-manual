@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Vector store / local data
+qdrant_data/
+data/raw/
+data/processed/
+
+# Logs
+*.log
+mcp_debug.log
+
+# OS
+.DS_Store

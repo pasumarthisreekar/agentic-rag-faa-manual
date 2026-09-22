@@ -1,0 +1,14 @@
+llama-index-core
+llama-index-llms-google-genai
+llama-index-tools-mcp
+llama-index-readers-docling
+llama-index-vector-stores-qdrant
+llama-index-embeddings-huggingface
+fastmcp
+qdrant-client
+docling
+ragas
+datasets
+langchain-google-genai
+python-dotenv
+pandas
